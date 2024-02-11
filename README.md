@@ -1,0 +1,2 @@
+A simplified Gym management system wherein the Admin can add/delete/edit member's details, trainers details, gym equipments availability,diet plan, Personalised workout plans. 
+The user side can have the access to their personalied workout plans or already inputed  3 primary workout plans (Beginner, Intermediate, Advanced), can calculate their BMI nad based on their BMI a diet plan will be fetched from the database and etc.
